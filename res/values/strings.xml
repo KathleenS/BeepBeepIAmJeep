@@ -1,7 +1,7 @@
 <resources>
 
     <string name="app_name">BeepBeepIAmJeep</string>
-    <string name="hello_world">Beep Beep I'm A Jeep!</string>
+    <string name="hello_world">Beep Beep I'm A Jeep! For Reals.</string>
     <string name="menu_settings">Settings</string>
     <string name="title_activity_main">Beep Beep I'm A Jeep</string>
 
